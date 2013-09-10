@@ -1,5 +1,3 @@
 answer to part b:
-public class TwoB {
-
 when dealing with max values, the average is incorrect. If you specify the inputs as long instead, the code works.
 Ammended code is in the twoA class
