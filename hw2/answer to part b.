@@ -1,12 +1,5 @@
 answer to part b:
 public class TwoB {
-    /**
-     * Compute the average of two integers.  Rounds toward zero if the
-     * average is not a whole number.
-     */
-    public static int average(int left, int right) {
-        return (left + right) / 2;
-    } // average(int,int)
-} // class TwoB
 
 when dealing with max values, the average is incorrect. If you specify the inputs as long instead, the code works.
+Ammended code is in the twoA class
